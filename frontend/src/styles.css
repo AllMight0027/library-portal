@@ -1,0 +1,32 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 4px;
+}
+
+body {
+  background: #343a40;
+}
+
+footer {
+  position: relative;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.card-columns {
+  display: inline-block;
+}
+
+/* .card {display:inline-block;} */
+
+.caimage {
+  object-fit: cover;
+  height: 250px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
